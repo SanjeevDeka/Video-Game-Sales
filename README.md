@@ -39,7 +39,5 @@ Dataset taken from: https://www.kaggle.com/gregorut/videogamesales
 
 ## Data Cleaning
 
-    Since there are only 3 records from 2017 and only 1 record from 2020, we'll remove those records as they are not correct representation for those 2 years.
-
-    And also we need to remove the null values.
+There are only 3 records from 2017 and only 1 record from 2020, so those records were removed. And the null values were removed too.
 
