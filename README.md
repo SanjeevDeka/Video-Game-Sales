@@ -45,4 +45,5 @@ After cleaning our dataset consists of games from the year 1980 to 2016.
 
 ## Data Visualization
 
-The visualization is also available in a Tableau dashboard: https://public.tableau.com/app/profile/sanjeev.deka/viz/VideoGameSales_16411099229790/GlobalSales
+The visualization is also available in a Tableau dashboard: 
+https://public.tableau.com/app/profile/sanjeev.deka/viz/VideoGameSales_16411099229790/GlobalSales
