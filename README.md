@@ -39,5 +39,10 @@ Dataset taken from: https://www.kaggle.com/gregorut/videogamesales
 
 ## Data Cleaning
 
-There are only 3 records from 2017 and only 1 record from 2020, so those records were removed. And the null values were removed too.
+There were only 3 records from 2017 and only 1 record from 2020, so those records were removed. And the null values were removed too.
 
+After cleaning our dataset consists of games from the year 1980 to 2016.
+
+## Data Visualization
+
+The visualization is available here: https://public.tableau.com/app/profile/sanjeev.deka/viz/VideoGameSales_16411099229790/GlobalSales
