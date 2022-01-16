@@ -36,3 +36,10 @@ It is based on BeautifulSoup using Python.
 There are 16,598 records. 2 records were dropped due to incomplete information.
 
 Dataset taken from: https://www.kaggle.com/gregorut/videogamesales
+
+## Data Cleaning
+
+    Since there are only 3 records from 2017 and only 1 record from 2020, we'll remove those records as they are not correct representation for those 2 years.
+
+    And also we need to remove the null values.
+
